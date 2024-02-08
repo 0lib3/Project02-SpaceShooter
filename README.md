@@ -18,6 +18,7 @@ Fonts from [Thaleah_Pixel Fonts](https://assetstore.unity.com/packages/2d/fonts/
 ## Future Development
 
 Will possibly add backgound looping, remove screen wrapping, and use camera tracking to allow player to move around more freely.
+
 Adding a better win-system.
 
 ## Created By
