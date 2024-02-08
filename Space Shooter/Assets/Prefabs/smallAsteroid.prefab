@@ -10,19 +10,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -2253911629886400664, guid: 84657731c2a8a0b4cabce205b8973d7d, type: 3}
       propertyPath: m_Name
-      value: asteroid
+      value: smallAsteroid
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 84657731c2a8a0b4cabce205b8973d7d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.5
+      value: 1.1666666
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 84657731c2a8a0b4cabce205b8973d7d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.5
+      value: 1.1666666
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 84657731c2a8a0b4cabce205b8973d7d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.5
+      value: 1.1666666
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 84657731c2a8a0b4cabce205b8973d7d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -99,12 +99,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"initalSpeed","value":{"$content":1.5,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"health","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"smallPrefab","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 2557683657806826100, guid: 00ee46367311a544eb0be6bbe4c50fe0, type: 3}
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"initalSpeed","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"health","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!114 &-458223098021231614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -120,7 +118,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 8b54559b2bc318b4e8bbcfcbbd79477c, type: 2}
+    - {fileID: 11400000, guid: 4e5469c1ed3f87947b8fb9e7150eb216, type: 2}
 --- !u!50 &-1387063680541198001
 Rigidbody2D:
   serializedVersion: 4
