@@ -11,9 +11,9 @@ Created using [Unity 2022.3.17f1](https://unity.com/download)
 
 All artwork and animations created by the author, Olive Belcher.
 
-Sounds from Pixabay(https://pixabay.com/sound-effects/)
+Sounds from [Pixabay](https://pixabay.com/sound-effects/)
 
-Fonts from Thaleah_PixelFont(https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059)
+Fonts from [Thaleah_Pixel Fonts](https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059)
 
 ## Future Development
 
